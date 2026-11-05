@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-availability-nuxt",
+  "capabilityKey": "planned:ecommerce:availability",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-availability-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/availability.md",
+  "presentationPlan": "projects/ecommerce/nuxt/availability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
